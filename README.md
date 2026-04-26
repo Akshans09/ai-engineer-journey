@@ -10,7 +10,7 @@ Built from scratch, one concept at a time.
 - [x] Python OOP
 - [x] NumPy
 - [x] Pandas
-- [ ] Git & GitHub
+- [x] Git & GitHub
 - [ ] Linux CLI
 - [ ] REST APIs
 - [ ] SQL
