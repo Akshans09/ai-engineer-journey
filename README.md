@@ -11,7 +11,7 @@ Built from scratch, one concept at a time.
 - [x] NumPy
 - [x] Pandas
 - [x] Git & GitHub
-- [ ] Linux CLI
+- [x] Linux CLI
 - [ ] REST APIs
 - [ ] SQL
 
