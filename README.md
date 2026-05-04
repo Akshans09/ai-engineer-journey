@@ -12,8 +12,8 @@ Built from scratch, one concept at a time.
 - [x] Pandas
 - [x] Git & GitHub
 - [x] Linux CLI
-- [ ] REST APIs
-- [ ] SQL
+- [x] REST APIs
+- [x] SQL
 
 ### Phase 2 — Deep Learning & PyTorch
 - [ ] Coming soon
